@@ -1,0 +1,101 @@
+body {
+    background-color: #ffe6f2; /* Rose pastel */
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar{
+    background: #d633847a; 
+    border:1px solid rgba(1, 68, 80, 0.281);
+    backdrop-filter: blur(6px);
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.1);  
+    color: rgb(71, 1, 48);
+}
+.Bienvenu{
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    opacity: 0.8;
+    color: rgb(99, 11, 84);
+    background: rgba(243, 31, 208, 0.1);
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.1);  
+}
+.AlaUne{
+    padding: 20px;
+    border:1px solid rgba(233, 148, 204, 0.681);
+    backdrop-filter: blur(6px);
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.1);
+    background: rgba(233, 149, 219, 0.1);
+    overflow-x: scroll;
+    scrollbar-width: thin; 
+    scrollbar-color: rgba(233, 148, 204, 0.681) #f8f9fa;
+}
+.AlaUne div{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border:1px solid rgba(233, 148, 204, 0.681);
+    width: 150px;
+    height: 150px;
+    border-radius: 5%;
+}
+.AlaUne div img{
+    width: 300px;
+    height: 100px;
+    object-fit: cover;
+}
+.commande{
+    background: rgba(145, 10, 124, 0.29);
+    color: rgb(109, 0, 73);
+    border:1px solid rgba(109, 0, 73, 0.404);
+    cursor: pointer;
+}
+.articles{
+    background: rgba(221, 130, 207, 0.29);
+}
+.article{
+    /* background: rgba(221, 130, 207, 0.29); */
+    color: rgb(109, 0, 73);
+    width: 25%;
+}
+.article img{
+    height: 250px;
+    object-fit: cover;
+}
+
+/* SearchInput */
+.SearchInput:focus{
+    outline: none;
+    /* border: none; */
+  }
+  .SearchInput,.searchIcon{
+        width: 100%;
+        background: rgba(221, 130, 207, 0.29);
+        border:1px solid rgba(252, 252, 252, 0.829);
+        backdrop-filter: blur(10px);
+        box-shadow: 0px 8px 20px rgba(117, 2, 102, 0.1);
+        border-radius: 25px;
+        padding: 5px;
+        font-size: 16px;
+        color: rgb(99, 11, 84);
+  }
+ 
+  .SearchInput::placeholder{
+    text-align: center;
+    color: rgb(99, 11, 84);
+  }
+  
+@media (max-width:1100px) {
+    .article{
+        width: 32%;
+    }
+  }
+@media (max-width:915px) {
+    .article{
+        width: 45%;
+    }
+  }
+  @media (max-width:630px) {
+    .article{
+        width: 100%;
+    }
+  }

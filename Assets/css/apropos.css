@@ -1,0 +1,50 @@
+/* Styles généraux */
+body {
+    background-color: #ffe6f2; /* Fond rose pastel */
+    font-family: 'Arial', sans-serif;
+}
+
+/* Conteneur principal */
+.about-container {
+    max-width: 800px;
+    margin: 50px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+/* Titre */
+.about-container h2 {
+    color: #d63384; /* Rose vif */
+    margin-bottom: 15px;
+}
+
+/* Icônes */
+.about-icons i {
+    font-size: 24px;
+    color: #d63384;
+    margin: 10px;
+}
+
+/* Texte */
+.about-text {
+    color: #6c757d;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+/* Bouton */
+.about-btn {
+    background-color: #d63384;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.about-btn:hover {
+    background-color: #a61e65;
+}
