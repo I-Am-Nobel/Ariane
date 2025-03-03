@@ -4,56 +4,56 @@ const ArticlesEpingles = [
         Nom: 'Vehicule',
         Prix: '25K',
         devise: '$',
-        numero: '0851780126'
+        numero: '+243851780126'
     },
     {
         ImgSrc: 'Assets/img/1740798757016.jpg',
         Nom: 'Prado',
         Prix: '35K',
         devise: '$',
-        numero: '0851780126'
+        numero: '+243851780126'
     },
     {
         ImgSrc: 'Assets/img/1740798488661.jpg',
         Nom: 'Bottes',
         Prix: 25,
         devise: '$',
-        numero: '0851780126'
+        numero: '+243851780126'
     },
     {
         ImgSrc: 'Assets/img/1740798097858.jpg',
         Nom: 'Chrome Book',
         Prix: 725,
         devise: '$',
-        numero: '0851780126'
+        numero: '+243851780126'
     },
     {
         ImgSrc: 'Assets/img/1740797800807.jpg',
         Nom: 'IPhone 15 pro',
         Prix: 25,
         devise: '$',
-        numero: '0851780126'
+        numero: '+243851780126'
     },
     {
         ImgSrc: 'Assets/img/1740797774773.jpg',
         Nom: 'IPhone 16 pro',
         Prix: 725,
         devise: '$',
-        numero: '0851780126'
+        numero: '+243851780126'
     },
     {
         ImgSrc: 'Assets/img/1740798476915.jpg',
         Nom: 'Bottes gris',
         Prix: 25,
         devise: '$',
-        numero: '0851780126'
+        numero: '+243851780126'
     },
     {
         ImgSrc: 'Assets/img/1740798620507.jpg',
         Nom: 'Bottes noirs',
         Prix: 725,
         devise: '$',
-        numero: '0851780126'
+        numero: '+243851780126'
     },
 ];
 let Articles = [
@@ -62,63 +62,63 @@ let Articles = [
         Nom: 'Hundai',
         Prix: 25,
         devise: '$',
-        numero: '0851780126'
+        numero: '+243851780126'
     },
     {
         ImgSrc: 'Assets/img/1740797800807.jpg',
         Nom: 'IPhone 16 pro',
         Prix: 725,
         devise: '$',
-        numero: '0851780126'
+        numero: '+243851780126'
     },
     {
         ImgSrc: 'Assets/img/1740798470885.jpg',
         Nom: 'Bottes',
         Prix: 25,
         devise: '$',
-        numero: '0851780126'
+        numero: '+243851780126'
     },
     {
         ImgSrc: 'Assets/img/1740798757016.jpg',
         Nom: 'Prado',
         Prix: '35K',
         devise: '$',
-        numero: '0851780126'
+        numero: '+243851780126'
     },
     {
         ImgSrc: 'Assets/img/1740798488661.jpg',
         Nom: 'Bottes',
         Prix: 25,
         devise: '$',
-        numero: '0851780126'
+        numero: '+243851780126'
     },
     {
         ImgSrc: 'Assets/img/1740798097858.jpg',
         Nom: 'Chrome Book',
         Prix: 725,
         devise: '$',
-        numero: '0851780126'
+        numero: '+243851780126'
     },
     {
         ImgSrc: 'Assets/img/1740797800807.jpg',
         Nom: 'IPhone 15 pro',
         Prix: 25,
         devise: '$',
-        numero: '0851780126'
+        numero: '+243851780126'
     },
     {
         ImgSrc: 'Assets/img/1740797774773.jpg',
         Nom: 'IPhone 16 pro',
         Prix: 725,
         devise: '$',
-        numero: '0851780126'
+        numero: '+243851780126'
     },
     {
         ImgSrc: 'Assets/img/1740798476915.jpg',
         Nom: 'Bottes gris',
         Prix: 25,
         devise: '$',
-        numero: '0851780126'
+        numero: '+243851780126'
     },
 ];
 
